@@ -1,6 +1,3 @@
-# ultrasound_hcsr04
-Arduino C++ driver for range reading from ultrasonic HC-SR04 device
-
 
 ### Overview
 This repository holds an Arduino C++ library to read range data from a [HC-SR04](http://www.elecfreaks.com/store/download/product/Sensor/HC-SR04/HC-SR04_Ultrasonic_Module_User_Guide.pdf) ultrasonic ranging device.
